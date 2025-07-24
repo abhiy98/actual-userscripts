@@ -42,3 +42,9 @@ Colors must be defined in the `NOTES_COLORS` variables.
 Some colors are already defined in the CSS file, more can be added.
 
 ![](.img/actual-tagcolors-1.png)
+
+## actual-IncomeReceived
+
+Allow users to compare expected vs actual income received.
+
+<img width="351" height="165" alt="image" src="https://github.com/user-attachments/assets/8ba5d786-46d7-4392-b458-cbb3abf44536" />
